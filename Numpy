@@ -1,0 +1,3 @@
+What is Numpy ?
+Numpy is a fundamental package for scientific computing in Python.
+Numpy is a Python library that provides a multidimensional array object,various derived object
